@@ -20,6 +20,10 @@ html{
   text-align: center;
   background-color: #333;
 }
+.yeaa{
+    text-align: center;
+    background-color: #133;
+}
 .yeahhh{
   background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8)), url(vector-background-20.jpg);
   background-size: cover;
@@ -33,7 +37,7 @@ html{
   margin: 3;
 }
 .mea{
-  background-image:linear-gradient(rgba(100, 0, 111, 0.5), rgba(255, 0, 111, 0.5)), url(IMG-20180510-WA0003.jpg);
+  background-image:linear-gradient(rgba(0, 0, 1, 0.5), rgba(5, 0, 0, 0.5)), url(IMG-20180510-WA0003.jpg);
   background-position: center;
   background-size: cover;
   height: 100vh;
@@ -77,14 +81,16 @@ tr{
 
 .span-1-of-2 {
 	width: 49.2%;
+  list-style: none;
 }
 footer{
   text-align: center;
-  background-color: #433;
-  list-style: none;
-  float: left;
-  background-position: bottom;
-
+  background-color: #1110;
+  width: 100%;
+  height: 10px;
+}
+.social-media img {
+  display: inline-block;
 }
 .social-icons{
   list-style: none;
@@ -112,8 +118,8 @@ html{
 }
 li{
   list-style: none;
-
 }
+
 
 
 
