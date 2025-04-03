@@ -20,7 +20,7 @@ header > nav{
     width: 33%;
 }
 #navbar {
-    padding-top: 5%;
+    padding-top: 1%;
     margin-left: 34%;
     right: 0%; 
     transition: top 0.3s; /* Transition effect when sliding down (and up) */
@@ -161,13 +161,13 @@ footer > div {
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
     .name-and-job-title {
-        font-size:60px;
-        padding-left: 35%;
+        font-size:40px;
+        padding-left: 25%;
     }
     .about_text {
-        padding: 6%;
+        padding: 4%;
         padding-top: 2%;
-        font-size:35px;
+        font-size:25px;
     }
 }
 
@@ -182,12 +182,12 @@ footer > div {
     .about_text {
         padding: 6%;
         padding-top: 1%;
-        font-size:25px;
+        font-size:30px;
     }
 }
 
 /* Extra large devices (large laptops and desktops, 1360px and up) */
-@media only screen and (min-width: 1360px) {
+@media only screen and (min-width: 1688px) {
     .name-and-job-title {
         font-size:60px;
         padding-left: 30%;
