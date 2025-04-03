@@ -45,23 +45,30 @@ header > nav{
 
   
 footer {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4));
     position: fixed;
     bottom: 0;
     display: inline-block;
     color: rgb(185, 156, 26);
-    width: 100%;
+    /* width: 100%; */
 }
 
 footer > div {
     float: left;
-    width: 48%;
+    /* width: 25%; */
+}
+.contact-infomation{
+    display: inline-block;
+}
+.contact-infomation > p{
+float: left;
+padding-left: 25px;
 }
 
-
-
 .copyright-text {
-    float: right;
+    /* float: right; */
     text-align: center;
+    padding-left: 25px;
     /* color: rgb(185, 156, 26); */
 }
  
